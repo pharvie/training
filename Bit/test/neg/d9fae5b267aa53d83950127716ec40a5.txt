@@ -1,0 +1,1 @@
+http://178.251.228.64:8000/get.php?username=freetv&password=iptv-per-shqiptaret&type=m3u&output=mpegts

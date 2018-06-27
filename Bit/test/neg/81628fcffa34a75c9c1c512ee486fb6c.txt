@@ -1,0 +1,1 @@
+http://www.goldtv.al:8000/get.php?username=LuiSD322222222222222&password=LuiSD322222222222222&type=m3u&output=mpegt

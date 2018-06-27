@@ -1,0 +1,1 @@
+http://linux-app.tv:6204/get.php?username=hedayat&password=hedayat&type=m3u

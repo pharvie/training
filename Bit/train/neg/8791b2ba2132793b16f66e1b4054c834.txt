@@ -1,0 +1,1 @@
+http://185.82.110.52:4646/get.php?username=ibm&password=ibm&type=m3u
